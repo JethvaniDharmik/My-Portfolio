@@ -64,7 +64,7 @@ export default function Navbar() {
         </ul>
 
         <motion.a
-          href="/public/assets/Dharmik Jethwani.pdf"
+          href="/assets/Dharmik Jethwani.pdf"
           download
           className="hidden relative lg:inline-block px-4 py-2 font-medium group"
         >
