@@ -1,6 +1,6 @@
-# Dharmik Jethwani Portfolio
+# Portfolio Website
 
-This is a personal portfolio website built using **Vite + React**, **Tailwind CSS**, and **Framer Motion** to showcase my skills, projects, and experience.
+This is a personal portfolio website built using Vite+React, Tailwind CSS, and Framer Motion to showcase my skills, projects, and experience.
 
 ## Features
 - **Responsive Design** – Works on all screen sizes.
@@ -18,22 +18,23 @@ This is a personal portfolio website built using **Vite + React**, **Tailwind CS
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/<your-username>/<your-repo-name>.git
-
-2. Navigate to the project directory
-    ```sh
-    cd <your-repo-name>
-3.  Install dependencies
-    ```sh
-    npm install
-4. Start the development server
-    ```sh
-    npm run dev
- npm run dev
+   git clone https://github.com/JethvaniDharmik/My-Portfolio
    ```
-   The app will be available at `http://localhost:5173/`.
+2. Navigate to the project directory:
+   ```sh
+   cd My-Portfolio
+   ```
+3. Install dependencies:
+   ```sh
+   npm install
+   ```
+4. Start the development server:
+   ```sh
+   npm run dev
+   ```
+   The app will be available at `http://localhost:3000/`.
 
-   ## Demo
+## Demo
 Check out the live demo of the portfolio website: [Live Demo](https://my-portfolio-tawny-two-i54i7x08jm.vercel.app/)
 
 ## Deployment
@@ -55,5 +56,3 @@ If you have any questions or suggestions, feel free to reach out via:
 
 ---
 Made with ❤️ by Dharmik Jethwani.
-
-
