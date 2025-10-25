@@ -113,7 +113,8 @@ export default function Navbar() {
                 </motion.li>
               ))}
               <motion.a
-                href=""
+                href="/assets/Dharmik Jethwani.pdf"
+          download
                 className="relative inline-block px-4 py-2 font-semibold group"
                 whileHover={{ scale: 1.1 }}
               >
