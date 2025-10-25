@@ -1,16 +1,93 @@
-# React + Vite
+Dharmik Jethwani Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is my personal portfolio website built using Vite + React, Tailwind CSS, and Framer Motion to showcase my skills, projects, and experience.
 
-Currently, two official plugins are available:
+Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Responsive Design – Works perfectly on all screen sizes.
 
-## React Compiler
+Smooth Animations – Powered by Framer Motion for interactive effects.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Dark Mode Support – Stylish UI with light and dark theme toggling.
 
-## Expanding the ESLint configuration
+Optimized Performance – Efficient rendering and smooth navigation.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+SEO Friendly – Optimized for better search engine visibility.
+
+Tech Stack
+
+Frontend: React.js
+
+Styling: Tailwind CSS
+
+Animations: Framer Motion
+
+
+Installation & Setup
+
+Clone the repository:
+
+git clone https://github.com/<your-username>/<your-repo-name>.git
+
+
+Navigate to the project directory:
+
+cd <your-repo-name>
+
+
+Install dependencies:
+
+npm install
+
+
+Start the development server:
+
+npm run dev
+
+
+The app will be available at http://localhost:5173/ (Vite default port).
+
+
+Demo
+
+Check out the live demo of my portfolio website: Live Demo
+
+Deployment
+
+To deploy this portfolio website, you can use platforms like:
+
+Vercel (recommended)
+
+Netlify
+
+GitHub Pages (requires extra configuration)
+
+How to Contribute
+
+If you’d like to contribute or improve this project:
+
+Fork the repository.
+
+Create a new branch: git checkout -b feature-name
+
+Make your changes and commit: git commit -m "Description of changes"
+
+Push to your branch: git push origin feature-name
+
+Create a Pull Request.
+
+🙌 Show Your Support
+
+If you like this project, please ⭐ star it and share it with your friends!
+
+Contact
+
+You can reach me via:
+
+Email: dharmikjethwani@example.com
+
+LinkedIn: Dharmik Jethwani
+
+Portfolio: Live Demo
+
+Made with ❤️ by Dharmik Jethwani
