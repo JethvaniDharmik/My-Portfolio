@@ -1,93 +1,59 @@
-Dharmik Jethwani Portfolio
+# Dharmik Jethwani Portfolio
 
-This is my personal portfolio website built using Vite + React, Tailwind CSS, and Framer Motion to showcase my skills, projects, and experience.
+This is a personal portfolio website built using **Vite + React**, **Tailwind CSS**, and **Framer Motion** to showcase my skills, projects, and experience.
 
-Features
+## Features
+- **Responsive Design** – Works on all screen sizes.
+- **Smooth Animations** – Powered by Framer Motion for interactive user experience.
+- **Dark Mode Support** – Stylish UI with light and dark theme toggling.
+- **Optimized Performance** – Efficient rendering and smooth navigation.
+- **SEO Friendly** – Optimized for better search engine visibility.
 
-Responsive Design – Works perfectly on all screen sizes.
+## Tech Stack
+- **Frontend:** React.js
+- **Styling:** Tailwind CSS
+- **Animations:** Framer Motion
 
-Smooth Animations – Powered by Framer Motion for interactive effects.
+## Installation & Setup
 
-Dark Mode Support – Stylish UI with light and dark theme toggling.
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/<your-username>/<your-repo-name>.git
 
-Optimized Performance – Efficient rendering and smooth navigation.
+2. Navigate to the project directory
+    ```sh
+    cd <your-repo-name>
+3.  Install dependencies
+    ```sh
+    npm install
+4. Start the development server
+    ```sh
+    npm run dev
+ npm run dev
+   ```
+   The app will be available at `http://localhost:5173/`.
 
-SEO Friendly – Optimized for better search engine visibility.
+   ## Demo
+Check out the live demo of the portfolio website: [Live Demo](https://my-portfolio-tawny-two-i54i7x08jm.vercel.app/)
 
-Tech Stack
+## Deployment
+To deploy the portfolio website, you can use platforms like:
+- **Vercel**
+- **Netlify**
+- **GitHub Pages** (with additional configurations)
 
-Frontend: React.js
+## How to Contribute
+If you’d like to contribute or improve this project, feel free to fork the repository and submit a pull request.
 
-Styling: Tailwind CSS
+## 🙌 Show Your Support
+If you like this project, please star it and share it with your friends!
 
-Animations: Framer Motion
+## Contact
+If you have any questions or suggestions, feel free to reach out via:
+- **Email:** dharmikjethwani777@gmail.com
+- **LinkedIn:** [@Dharmik-Jethwani](www.linkedin.com/in/dharmik-jethwani-073109313)
 
-
-Installation & Setup
-
-Clone the repository:
-
-git clone https://github.com/<your-username>/<your-repo-name>.git
-
-
-Navigate to the project directory:
-
-cd <your-repo-name>
-
-
-Install dependencies:
-
-npm install
+---
+Made with ❤️ by Dharmik Jethwani.
 
 
-Start the development server:
-
-npm run dev
-
-
-The app will be available at http://localhost:5173/ (Vite default port).
-
-
-Demo
-
-Check out the live demo of my portfolio website: Live Demo
-
-Deployment
-
-To deploy this portfolio website, you can use platforms like:
-
-Vercel (recommended)
-
-Netlify
-
-GitHub Pages (requires extra configuration)
-
-How to Contribute
-
-If you’d like to contribute or improve this project:
-
-Fork the repository.
-
-Create a new branch: git checkout -b feature-name
-
-Make your changes and commit: git commit -m "Description of changes"
-
-Push to your branch: git push origin feature-name
-
-Create a Pull Request.
-
-🙌 Show Your Support
-
-If you like this project, please ⭐ star it and share it with your friends!
-
-Contact
-
-You can reach me via:
-
-Email: dharmikjethwani@example.com
-
-LinkedIn: Dharmik Jethwani
-
-Portfolio: Live Demo
-
-Made with ❤️ by Dharmik Jethwani
